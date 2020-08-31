@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid Daily</string>
+    
+    <string name="hyperlink">2. The data is collected from\n <a href="https://api.covid19india.org">https://api.covid19india.org</a></string>
+</resources>
