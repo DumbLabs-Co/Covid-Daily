@@ -1,5 +1,7 @@
 # Covid-Daily
 
+![Project View](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/readme.png)
+
 ## Download App
 - [Android](https://dumblabs-co.github.io/coviddaily/)
 
