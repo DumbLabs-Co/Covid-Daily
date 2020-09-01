@@ -2,6 +2,9 @@
 
 ![Project View](https://github.com/DumbLabs-Co/coviddaily/blob/gh-pages/readme.png)
 
+## Getting Started
+Covid Daily is an app that allows people to track COVID-19 cases in an easy-to-use interface to increase awareness. Unfortunately, Play Store has rejected Covid Daily as the App Store Review Guidelines require that medical apps are published by medical institutions, so we've open sourced Covid Daily with the intent that people can use it.
+
 ## Download App
 - [Android](https://dumblabs-co.github.io/coviddaily/)
 
@@ -41,5 +44,3 @@ MIT License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-## Getting Started
-This app is starting point for an Android applicarion.
