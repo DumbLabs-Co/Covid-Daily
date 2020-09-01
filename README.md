@@ -19,7 +19,7 @@ COVID19INDIA
 This app is starting point for an Android applicarion.
 
 
-Licensed By:
+## Licensed By:
 
 MIT License
 
