@@ -18,7 +18,7 @@ Covid Daily is an app that allows people to track COVID-19 cases in an easy-to-u
 - [Gagan Chordia](https://github.com/gagan-gv)
 
 ## Credits
-COVID19INDIA
+- [COVID19INDIA](https://api.covid19india.org)
 
 ## Licensed By:
 
