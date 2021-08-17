@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     SwipeRefreshLayout swipeRefreshLayout;
 
     RequestQueue queue1;
-    String url1 = "https://api.covid19india.org/data.json";
+    String url1 = "https://data.covid19india.org/data.json";
     JsonObjectRequest jsonObjectRequest1;
 
     RecyclerView recyclerView;

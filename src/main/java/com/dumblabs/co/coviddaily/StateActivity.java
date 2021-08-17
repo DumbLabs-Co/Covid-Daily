@@ -58,7 +58,7 @@ public class StateActivity extends AppCompatActivity {
     Intent intent;
 
     RequestQueue queue2;
-    String url2="https://api.covid19india.org/state_district_wise.json";
+    String url2="https://data.covid19india.org/state_district_wise.json";
     JsonObjectRequest jsonObjectRequest2;
 
 
